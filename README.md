@@ -5,6 +5,7 @@ I am Martin, a dedicated software engineer hailing from Argentina.
 
 My professional focus revolves around software development, with a commitment to creating impactful applications that serve a purpose. Notable projects in my portfolio include:
 
+- [tanly.app](https://tanly.app) - Crypto crowdfunding platform - [Eth Global Buenos Aires 2025 Prize Winner](https://ethglobal.com/showcase/tanly-app-dzvxr)
 - [propimap.com](https://propimap.com) - Automated custom websites for real state agents in Argentina.
 - [mojibay.com](https://mojibay.vercel.app) - Searchable Emoji Directory.
 - [list2email.com](https://list2email.vercel.app) - Simplifying list-to-email conversions.
